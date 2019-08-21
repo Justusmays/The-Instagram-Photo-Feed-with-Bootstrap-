@@ -1,0 +1,12 @@
+body {background: #cccbcb; margin: 0;}
+header {background: white; padding: 10px;}
+header h1{margin: 0%}
+img {width: 300px; height: 580px;}
+.posts {background: white; margin-top: 10px;}
+.posts img{width: 100%;}
+.posts h2{padding: 5px;}
+.posts p{padding: 10px;}
+.posts .top div:first-child{display: inline-block; width: 80%; background: white; text-align: left;}
+.posts .top div:last-child{display: inline-block; width: 18%; background: white; text-align: right;}
+.posts h2, div.posts p{padding: 10px; margin: 0;}
+.box {width: 600px; margin: auto;}
